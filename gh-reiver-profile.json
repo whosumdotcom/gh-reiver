@@ -1,0 +1,36 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-03-04T02:28:30Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:reiver"
+    },
+    {
+      "Claim": "mdon:@reiver@mastodon.social"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "f90c6172cfe8e275bdfe1ac6",
+    "Timestamp": "2023-03-04T02:44:06Z",
+    "Signature": "55a93806a8cf47ab126c6637750c3e30009c2483fa5bb70cfe0268642c74013b0ea2bed023d5d70d743a09fe810025bbb1fcf10ed5d94a467b3af799f81b5aded713eb48da35a47efc78169d56880d88c5ef0f426bdac57fc94749ff9b653f65913c90ebc9c21a5313fb519835e4a2ef6d75633e28cf75a5493d00487eed64a49e6700acfa172a6e940f238082693cbbf56270ec6e92b695772cb3f5b71fea1999a38320e092846ec578e9dc8ccbde61d63cf636043367452cacc9f96e94b1741aa931f613204b8e143e35d373b0e92e56c7476e2cc7b15a09c1df0d8d920b0519ce7db063f594b7efb0014e783af60479c30ccf061331a5a132f31213640914"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "67025e51cf3fe77a03a0cde6500f3e01275f39a8c66b71598337480ed0823909",
+  "ContentToHash": "v1|gh:reiver,mdon:@reiver@mastodon.social,med:no-account,pat:no-account,post:no-account,ss:no-account|2023-03-04T02:28:30Z"
+}
